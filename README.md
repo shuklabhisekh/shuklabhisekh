@@ -1,4 +1,5 @@
-<h1 align="center">Hi There 👋, I'm Abhishek Shukla</h1>
+<h1 align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</br>Hi There 👋, I'm Abhishek Shukla</h1>
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
 
