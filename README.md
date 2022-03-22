@@ -2,25 +2,16 @@
 </br>I'm Abhishek Shukla</h1>
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
-
-
-
-
 <!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/shuklabhisekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/shuklabhisekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
   <!-- <a href="https://medium.com/@shuklabhisekh" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="medium.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
-
 </p>
-
-
-
-
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
@@ -41,4 +32,3 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
- 
