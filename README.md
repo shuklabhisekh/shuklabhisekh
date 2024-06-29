@@ -1,9 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Shukla+from+Inida+🇮🇳!;" />
 </h1>
-- Experienced full-stack engineer skilled in building responsive, user-friendly web applications.
-- I am currently employed as a Software Engineer at [GitHub Pages](https://pages.github.com/).
-- Currently exploring Docker and Jest.
+- Experienced full-stack engineer proficient in developing responsive, user-friendly web applications.
+- Currently employed as a Software Engineer at [Thinksys Inc](https://www.linkedin.com/company/thinksys-inc/mycompany/).
 - Open to new opportunities.
 
 <!-- ## 🔗 Links
