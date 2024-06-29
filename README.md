@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://shuklabhisekh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-795548?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-795548?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@shuklabhisekh" target="_blank">
     <img src="https://img.shields.io/badge/Medium-536878?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
