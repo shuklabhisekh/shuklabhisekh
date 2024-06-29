@@ -32,9 +32,9 @@
 </div>
   
 <h2 align="left">👷 Stats so far</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuklabhisekh&show_icons=true&locale=en&layout=compact" alt="shuklabhisekh" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuklabhisekh&show_icons=true&locale=en&layout=compact" alt="shuklabhisekh" /></p> -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuklabhisekh&show_icons=true&locale=en" alt="shuklabhisekh" /></p>
-<p align="center"><img src="https://leetcard.jacoblin.cool/shuklabhisekh"/></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/shuklabhisekh" alt="shuklabhisekh"/></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklabhisekh&" alt="shuklabhisekh" /></p> -->
 
 <p align="center">
