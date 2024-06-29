@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Shukla!;" />
 </h1>
-<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
+<h3 align="center">Experienced full-stack engineer with 2 years of expertise in developing responsive, user-centric web applications. Specializes in intuitive UI/UX design and ensuring cross-platform compatibility across frontend and backend technologies.</h3>
 
 <!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
