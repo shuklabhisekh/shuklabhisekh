@@ -27,7 +27,7 @@
 
 <h2 align="left">🛠 Languages and Tools:</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,javascript,typescript,mui,styledcomponents,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,redis,javascript,typescript,mui,styledcomponents,html,css" />
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,github,git,gitlab,vscode,visualstudio,heroku,netlify,vercel" /><br>
 </div>
   
