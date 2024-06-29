@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/shuklabhisekh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 <a href="https://shuklabhisekh.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://medium.com/@shuklabhisekh" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Profile" />
+  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
 </a>
 </div>
 
