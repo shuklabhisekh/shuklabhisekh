@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Shukla+from+🇮🇳;" />
 </h1>
 <div>
-#### About Me
 
 - Experienced full-stack engineer skilled in developing responsive, user-friendly web applications.
 - Currently employed as a Software Engineer at [Thinksys Inc](https://www.linkedin.com/company/thinksys-inc/mycompany/).
