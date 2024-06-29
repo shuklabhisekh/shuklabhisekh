@@ -2,10 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Shukla+from+🇮🇳;" />
 </h1>
 <div>
-<h3> * Experienced full-stack engineer skilled in developing responsive, user-friendly web applications. <\h3>
-<h3>* Currently employed as a Software Engineer at Thinksys Inc. <\h3>
-<h3>* Currently exploring Docker and Jest.<\h3>
-<h3>* Open to new opportunities.<\h3>
+<h6> 
+    * Experienced full-stack engineer skilled in developing responsive, user-friendly web applications. 
+    * Currently employed as a Software Engineer at Thinksys Inc.
+    * Currently exploring Docker.
+    * Open to new opportunities.
+<\h6>
 
 
 <!-- ## 🔗 Links
