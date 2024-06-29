@@ -8,19 +8,19 @@
 <h2 align="left">☕ Let's Connect</h2>
 
 <div align="center"> 
-  <a href="mailto:shuklabhisekh@gmail.com">
+  <a href="mailto:shuklabhisekh@gmail.com" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-A91D3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/shuklabhisekh" target="_blank">
+  <a href="https://linkedin.com/in/shuklabhisekh" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://shuklabhisekh.netlify.app" target="_blank">
+  <a href="https://shuklabhisekh.netlify.app" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-26355D?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://medium.com/@shuklabhisekh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-EEEEEE?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
+  <a href="https://medium.com/@shuklabhisekh" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Medium-686D76?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
   </a>
-   <a href="https://x.com/shuklabhisekh" target="_blank">
+  <a href="https://x.com/shuklabhisekh" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </div>
