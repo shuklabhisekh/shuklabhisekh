@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-795548?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@shuklabhisekh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-686D76?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
+    <img src="https://img.shields.io/badge/Medium-373A40?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
   </a>
    <a href="https://x.com/shuklabhisekh" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
