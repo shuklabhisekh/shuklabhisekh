@@ -27,8 +27,8 @@
 
 <h2 align="left">🛠 Languages and Tools:</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,chakra,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,javascript,typescript,mui,styledcomponents,html,css" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,github,git,gitlab,vscode,visualstudio,heroku,netlify,vercel" /><br>
 </div>
   
 <h2 align="left">👷 Stats so far</h2>
