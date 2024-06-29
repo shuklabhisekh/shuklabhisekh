@@ -8,8 +8,8 @@
 <h2 align="left">☕ Let's Connect</h2>
 
 <div align="center"> 
-  <a href="mailto:shuklabhisekh@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-A91D3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shuklabhisekh@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-DD5746?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/shuklabhisekh" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
