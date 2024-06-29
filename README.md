@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <a href="mailto:shuklabhisekh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/shuklabhisekh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -20,8 +20,8 @@
   <a href="https://medium.com/@shuklabhisekh" target="_blank">
     <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
   </a>
-  <a href="https://twitter.com/shuklabhisekh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
+  <a href="https://x.com/shuklabhisekh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </div>
 
