@@ -20,8 +20,8 @@
   <a href="https://medium.com/@shuklabhisekh" target="_blank">
     <img src="https://img.shields.io/badge/Medium-536878?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
   </a>
-   <a href="https://x.com/shuklabhisekh" target="_blank" class="badge x">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+   <a href="https://x.com/shuklabhisekh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </div>
 
