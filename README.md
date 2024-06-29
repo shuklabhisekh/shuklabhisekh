@@ -9,17 +9,17 @@
 
 <div align="center"> 
   <a href="mailto:shuklabhisekh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/shuklabhisekh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://shuklabhisekh.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  <a href="https://medium.com/@shuklabhisekh" target="blank">
-        <img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="medium.com/in/shuklabhisekh/" height="50" width="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/shuklabhisekh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Profile" />
+</a>
+<a href="https://shuklabhisekh.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://medium.com/@shuklabhisekh" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Profile" />
+</a>
 </div>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
